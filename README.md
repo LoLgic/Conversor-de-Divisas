@@ -12,7 +12,8 @@ Este proyecto es una aplicación de **Conversor de Divisas** desarrollada en **J
 
 ## 🖥️ Vista previa
 
-> 🔽 **Agrega aquí una captura de pantalla de la aplicación**
+>
+> https://github.com/LoLgic/Conversor-de-Divisas/blob/40aa5b80fafdee97b58f41e00901fd8727b83d78/img_app.jpg
 > 
 ----------
 ## 🛠️ Tecnologías utilizadas
