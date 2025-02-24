@@ -26,6 +26,10 @@ Este proyecto es una aplicación de **Conversor de Divisas** desarrollada en **J
 
 1.  **Clona este repositorio** 📥
     
+   bash
+    
+    CopiarEditar
+    
    ```bash
 https://github.com/LoLgic/Conversor-de-Divisas.git
 
